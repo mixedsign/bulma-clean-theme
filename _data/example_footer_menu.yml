@@ -1,8 +1,8 @@
-- name: Home
+- name: Начало
   link: /
-- name: Blog
-  link: /blog/
-- name: Products
+- name: Контакти
+  link: /contact/
+- name: Решения
   link: /products/
-- name: Privacy Policy
-  link: /privacy-policy/
+- name: За нас
+  link: /about/
