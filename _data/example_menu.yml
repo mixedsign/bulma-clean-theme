@@ -1,25 +1,29 @@
-- label: Example Menu
+- label: Menu
   items:
-    - name: Home
+    - name: Начало
       link: /
-    - name: Pages
+    - name: Категории
       link: /#
       items:
-        - name: Page With Sidebar 
+        - name: Вид със сайтбар 
           link: /page-1/
-        - name: Page Without Sidebar
+        - name: Вид без сайтбар
           link: /page-2/
-        - name: Page With Menubar
+        - name: Вид с меню бар
           link: /page-3/
-        - name: Page With Tabs
+        - name: Вид без меню бар
           link: /page-4/
-        - name: Page Without Footer
+        - name: Вид без футър
           link: /page-5/
-        - name: Page Without Hero
+        - name: Вид без хиро
           link: /page-without-hero/
-        - name: Page With Contents
+        - name: Вид със съдържание
           link: /page-with-contents/
-        - name: Landing Page With Callouts
+        - name: Вид с допълнителни описания
           link: /landing/
-    - name: Blog
+    - name: Решения
       link: /blog/
+    - name: Контакти
+      link: /contact/
+    - name: За нас
+      link: /about/
