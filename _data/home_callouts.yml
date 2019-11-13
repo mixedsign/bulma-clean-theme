@@ -1,11 +1,11 @@
 style: is-light
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
+  - title: Основна информация 1
+    subtitle: Описание на Основна информация
     icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
+  - title: Въведение
+    subtitle: Описание на въведение
     icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
+  - title: Качество на изработка
+    subtitle: Описание на качествата при изработка
     icon: fab fa-github
